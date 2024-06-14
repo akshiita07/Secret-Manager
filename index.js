@@ -11,7 +11,7 @@ app.use(express.static('public'));
 
 // Use the Secrets API documentation: https://secrets-api.appbrewery.com/
 
-const yourBearerToken = "1cd953da-4f95-426b-b9cf-81b7a4d14935";
+const yourBearerToken = "enter_your_token_here";
 
 //for adding authentication header:
 const config = {
